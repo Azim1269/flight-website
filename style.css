@@ -2,21 +2,32 @@ body{
     font-family: 'Poppins', sans-serif;
     padding: 0%;
 }
-h3{
+.Header-text{
     text-align: center;
     
 }
 h1{
-    font-size: 60px;
+    font-size: 50px;
     color: white;
+    
     
 }
 .header-side{
              padding-left: 55%;  
-             margin-top: 60px;
+             padding-top: 60px;
              background-image: url(flight-image.jpg);
              height: 500px;
             }
 .middle-text{
     color: white;
 }
+#lower-middle-text{
+    text-align: center;
+    background-color: rgb(255, 87, 115);
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    }
+
