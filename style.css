@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0%;
+}
+h3{
+    text-align: center;
+    
+}
+h1{
+    font-size: 60px;
+    color: white;
+    
+}
+.header-side{
+             padding-left: 55%;  
+             margin-top: 60px;
+             background-image: url(flight-image.jpg);
+             height: 500px;
+            }
+.middle-text{
+    color: white;
+}
